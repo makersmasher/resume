@@ -1,79 +1,122 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "meta": {
-	  "theme":"paper"
+	  "theme":"elegant"
   },
   "basics": {
     "name": "Anthony Fresta",
-    "label": "Programmer",
-    "image": "",
+    "label": "Software Developer, DevOps, Manager",
+    "image": "INSERT IMAGE",
     "email": "anthony@makersmasher.com",
-    "phone": "(912) 555-4321",
-    "url": "http://richardhendricks.example.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinal!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "phone": "(314) 896-4826",
+    "url": "http://www.makersmasher.com",
+    "summary": "Anthony has 15+ years industry experience, has led software development teams, and built large complex systems to allow for complete automation of business processes. He is currently transitioning from managing software teams back to being an individual contributer in some form of security (ideally exploit development, penetration testing, or reverse engineering).",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "5219 Elizabeth Ave",
+      "postalCode": "MO 63110",
+      "city": "St. Louis",
       "countryCode": "US",
-      "region": "California"
+      "region": "Missouri"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "url": "https://twitter.com/makersmasher",
+        "username": "makersmasher"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.example.com/dandymusicnl"
+        "network": "Github",
+        "username": "makersmasher",
+        "url": "https://github.com/makersmasher"
       }
     ]
   },
   "work": [
     {
-      "name": "Pied Piper",
-      "location": "Palo Alto, CA",
-      "description": "Awesome compression company",
-      "position": "CEO/President",
-      "url": "http://piedpiper.example.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "name": "Exegy Inc",
+      "location": {
+        "address": "349 Marshall Ave",
+        "postalCode": "MO 63119",
+        "city": "St. Louis",
+        "countryCode": "US",
+        "region": "MO" 
+      },
+      "position": "Manager",
+      "url": "http://exegy.com",
+      "startDate": "5-16-2019",
+      "endDate": "Present",
+      "summary": "Exegy continually innovates to meet evolving market challenges. Our flexible market data solutions address the diverse needs of the world’s leading market participants—from low-latency technology to real-time trading signals to historical simulation.",
+      "highlights": ["Ran teams of software devs." ]
+    },
+      {
+      "name": "Exegy Inc",
+      "location": {
+        "address": "349 Marshall Ave",
+        "postalCode": "MO 63119",
+        "city": "St. Louis",
+        "countryCode": "US",
+        "region": "MO"
+      },
+      "description": "Real Time Stock Market Data Solutions",
+      "position": "Manager",
+      "url": "http://exegy.com",
+      "startDate": "4-29-2013",
+      "endDate": "5-16-2019",
+      "summary": "Exegy continually innovates to meet evolving market challenges. Our flexible market data solutions address the diverse needs of the world’s leading market participants—from low-latency technology to real-time trading signals to historical simulation.",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    },
+    {
+      "name": "Newground",
+      "location": {
+        "address": "349 Marshall Ave",
+        "postalCode": "MO 63119",
+        "city": "St. Louis",
+        "countryCode": "US",
+        "region": "MO"
+      },
+      "description": "With over 100 years of experience in financial institution strategy, design, and project management, NewGround is your trusted advisor for true end-to-end implementations that propel your brand forward.",
+      "position": "Lead DevOps Engineer",
+      "url": "http://newground.com",
+      "startDate": "02-01-2011",
+      "endDate": "04-01-2013",
+      "summary": "Something Something ",
+      "highlights": [
+        "Implementd some automation etc etc"
+      ]
+    },
+    {
+      "name": "Cybercon Colocation Center",
+      "name": "Exegy Inc",
+      "location": {
+        "address": "349 Marshall Ave",
+        "postalCode": "MO 63119",
+        "city": "St. Louis",
+        "countryCode": "US",
+        "region": "MO"
+      },
+      "description": "Cybercon is a world-leading provider of dedicated servers, cloud servers, software and app hosting, decentralized websites and apps, and big data services.",
+      "position": "System Administrator, NOC/SOC tech",
+      "url": "http://cybercon.com",
+      "startDate": "04-01-2008",
+      "endDate": "05-01-2013 (part time starting 02-2011)",
+      "summary": "responded to stuff in the socnoc.",
       "highlights": [
         "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
         "Successfully won Techcrunch Disrupt",
         "Optimized an algorithm that holds the current world record for Weisman Scores"
       ]
     }
-  ],
-  "volunteer": [
-    {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "url": "http://coderdojo.example.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": [
-        "Awarded 'Teacher of the Month'"
-      ]
-    }
-  ],
+   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "url": "https://www.ou.edu/",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
+      "institution": "University of Missouri - St. Louis",
+      "url": "https://www.umsl.edu/",
+      "area": "Computer Science",
+      "studyType": "Undergraduate Studies"
     }
   ],
   "awards": [
