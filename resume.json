@@ -10,7 +10,7 @@
     "email": "anthony@makersmasher.com",
     "phone": "(314) 896-4826",
     "url": "http://www.makersmasher.com",
-    "summary": "Anthony has 15+ years industry experience, has led software development teams, and built large complex systems to allow for complete automation of business processes. He is currently transitioning from managing software teams back to being an individual contributer in some form of security (ideally exploit development, penetration testing, or reverse engineering).",
+    "summary": "Anthony has 15+ years industry experience, has led software development teams, and built large complex systems to allow for complete automation of business processes. He is currently transitioning from leading teams back to being an individual contributer in some form of security - ideally exploit development, penetration testing, or reverse engineering.",
     "location": {
       "address": "5219 Elizabeth Ave",
       "postalCode": "MO 63110",
@@ -48,10 +48,10 @@
       "summary": "Lead the team within Exegy that moved the organization away from a snowflake approach of managing high frequency trading tickerplants.  This presented an interesting challenge due to the real time nature of the service, and a business need to shift focus to managed services.  Architected the technical and people aspects of the automation efforts with the goal of reducing costs, increasing customer satisfaction, and lessening the effects of critical path issues.",
       "highlights": ["Lead several teams of software developers.",
 
-	             "As a member of Exegy's Global Information Security Board, I along with our executive leadership have developed and implemented policies and procedures to secure intellectual property, systems, and data.",
+	             "As a member of Exegy's Global Information Security Board, along with our executive leadership, have developed and implemented policies and procedures to secure intellectual property, systems, and data.",
 
      		     "Automated configuration management, verification, and deployment of tickerplants used in high frequency trading for both production and test systems using puppet, and other various technologies.", 
-		     "Increased situational awareness, to move from a reactionary to proactive management approach.", 
+		     "Increased situational awareness, to move from a reactionary to proactive server management approach.", 
 		     
 		     "Gathered requirements from Engineering, Product Management, and Customer Support/Operations for designing and implementing operational and support tools.", 
 		     
