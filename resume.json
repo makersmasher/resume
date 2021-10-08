@@ -255,10 +255,15 @@
   ],
   "interests": [
     {
-      "name": "Outdoors",
+      "name": "Hobbies",
       "keywords": [
         "Hunting",
-        "Fishing"
+        "Fishing",
+	"Sausage making",
+	"Smoker of fine meats",
+	"Motorcycles",
+	"Pot Limit Omaha Poker"
+
       ]
     }
   ],
