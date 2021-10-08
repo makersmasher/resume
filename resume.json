@@ -271,7 +271,7 @@
   "projects": [
     {
       "name": "Roulette prediction system",
-      "description": "Attempt Predict where a roulette ball will fall (in progress)",
+      "description": "Attempt to predict where a roulette ball will fall on a wheel (early stages/in progress).",
       "highlights": [
         "Machine learning",
         "C++",
