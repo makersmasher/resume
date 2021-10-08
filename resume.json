@@ -6,7 +6,7 @@
   "basics": {
     "name": "Anthony Fresta",
     "label": "Software Developer, DevOps Engineer, Manager",
-    "image": "https://www.makersmasher.com/assets/img/me.jpg",
+    "image": "",
     "email": "anthony@makersmasher.com",
     "phone": "(314) 896-4826",
     "url": "http://www.makersmasher.com",
@@ -43,19 +43,19 @@
       },
       "position": "Manager",
       "url": "http://exegy.com",
-      "startDate": "5-16-2019",
+      "startDate": "2019-05-16",
       "endDate": "Present",
       "summary": "Lead the team within Exegy that moved the organization away from a snowflake approach of managing high frequency trading tickerplants.  This presented an interesting challenge due to the real time nature of the service, and a business need to shift focus to managed services.  Architected the technical and people aspects of the automation efforts with the goal of reducing costs, increasing customer satisfaction, and lessening the effects of critical path issues.",
       "highlights": ["Lead several teams of software developers.",
 
-	             "As a member of Exegy's Global Information Security Board, I along with our executive leadership have develop and implemented policies and procedures to secure intellectual property, systems, and data",
+	             "As a member of Exegy's Global Information Security Board, I along with our executive leadership have develop and implemented policies and procedures to secure intellectual property, systems, and data.",
 
      		     "Automated configuration management, verification, and deployment of tickerplants used in high frequency trading for both production and test systems using puppet, and other various technologies.", 
 		     "Increased situational awareness, to move from a reactionary to proactive management approach.", 
 		     
 		     "Gathered requirements from Engineering, Product Management, and Customer Support/Operations for designing and implementing operational and support tools.", 
 		     
-		     "Implementing test cases and business rules based on the input of multiple teams.", "Worked directly with executive level management to implement processes, technologies, and solutions to further the tactics and strategy of automation."
+		     "Implemented test cases and business rules based on the input of multiple teams.", "Worked directly with executive level management to implement processes, technologies, and solutions to further the tactics and strategy of automation."
 
 
 
@@ -73,20 +73,21 @@
       "description": "Exegy continually innovates to meet evolving market challenges. Our flexible market data solutions address the diverse needs of the world’s leading market participants—from low-latency technology to real-time trading signals to historical simulation.",
       "position": "Software Developer/DevOps Engineer",
       "url": "http://exegy.com",
-      "startDate": "4-29-2013",
-      "endDate": "5-16-2019",
-      "summary": "Puppet, devops, ipxe, ruby, python, C, many projects, individual contributer",
+      "startDate": "2013-04-29",
+      "endDate": "2019-05-16",
+      "summary": "Software Developer",
       "highlights": [
         "Developed code to bare metal provision servers via HTTPS.",
         "Developed custom iPXE C firmware.",
-	"Developed an extensive amount of puppet software in an effort to completely automate server provisioning and change management."
+	"Developed an extensive amount of puppet software in an effort to completely automate server provisioning and change management.",
+	"Technologies: Python, Ruby, C, Docker, Puppet, Linux"
       ]
     },
     {
       "name": "Newground",
       "location": {
-        "address": "349 Marshall Ave",
-        "postalCode": "MO 63119",
+        "address": "15450 S Outer Forty Rd ",
+        "postalCode": "MO 63017",
         "city": "St. Louis",
         "countryCode": "US",
         "region": "MO"
@@ -94,8 +95,8 @@
       "description": "With over 100 years of experience in financial institution strategy, design, and project management, NewGround is your trusted advisor for true end-to-end implementations that propel your brand forward.",
       "position": "Lead DevOps Engineer",
       "url": "http://newground.com",
-      "startDate": "02-01-2011",
-      "endDate": "04-01-2013",
+      "startDate": "2011-02",
+      "endDate": "2013-04",
       "summary": "developed custom marketing sigange in-house saving a bunch of licensing fees ",
       "highlights": [
 	     "Responsible for the administration of 1500+ Linux based devices located in financial institutions across the US, implemented management with OpsCode Chef, and a custom SaaS RESTful app I developed to manage and deploy the servers.",
@@ -125,9 +126,9 @@
       "description": "Co-Founded Qraving.com, a digital loyalty card application for Android and IOS operating systems.",
       "position": "Co-Founder",
       "url": "http://qraving.com (defunct)",
-      "startDate": "04-01-2008",
-      "endDate": "05-01-2013 (part time starting 02-2011)",
-      "summary": "responded to stuff in the socnoc.",
+      "startDate": "2011-04",
+      "endDate": "2013-12",
+      "summary": "",
       "highlights": [
 	"Along with my co-founder built Qraving's userbase to 5000+ and onboarded over two dozen restaurants.",
 	"Developed backend PHP API used for app information storage/retrieval.",
@@ -141,8 +142,8 @@
     {
       "name": "Cybercon Colocation Center",
       "location": {
-        "address": "349 Marshall Ave",
-        "postalCode": "MO 63119",
+        "address": "210 North Tucker",
+        "postalCode": "MO 63101",
         "city": "St. Louis",
         "countryCode": "US",
         "region": "MO"
@@ -150,9 +151,9 @@
       "description": "Cybercon is a world-leading provider of dedicated servers, cloud servers, software and app hosting, decentralized websites and apps, and big data services.",
       "position": "System Administrator, NOC/SOC tech",
       "url": "http://cybercon.com",
-      "startDate": "04-01-2008",
-      "endDate": "05-01-2013 (part time starting 02-2011)",
-      "summary": "responded to stuff in the socnoc.",
+      "startDate": "2008-04",
+      "endDate": "2013-05",
+      "summary": "System admin, developer, troubleshooter, operations.",
       "highlights": [
 	     "Installing memory, hard drive, and power supplies, building servers from the ground up, installing customer hardware (routers, firewalls, load balancers etc).",
 	"Use of Cybercon’s custom ticket system to troubleshoot tickets opened by system administrators hosting systems at the data center, including but not limited DNS, firewall, security and networking issues.",
@@ -166,7 +167,27 @@
 	"Routine OS (Linux, Windows server products, BSD) installations.",
 	"Maintenance of several types of backup solutions, including tapes, rotation of virtual disks, and network backups using ftp/scp/nfs/rsync.",
 	"Was asked by management to assume the lead role of security technician. Implemented honeynet and IDS systems, using Virtual machines, honeywall, snort, sebek among other technologies. Setup Virtual machines for collating and managing IDS statistics, along with virtual machines (Backtrack4) for penetration testing of customer servers, and data forensics in case of data loss or outside penetration."
-      ],
+      ]
+    },
+
+    {
+      "name": "Owner/Managing Partner, Pure Ultraloung & Bistro",
+      "location": {
+        "address": "",
+        "postalCode": "MO 63119",
+        "city": "St. Louis",
+        "countryCode": "US",
+        "region": "MO"
+      },
+      "description": "Supervised build out of restaurant and bar, ran day to day operations",
+      "position": "Owner/Operator",
+      "url": "(defunct)",
+      "startDate": "2006-10",
+      "endDate": "2008-02",
+      "summary": "",
+      "highlights": [
+
+      ]
     }
 	  ],
   "education": [
@@ -206,8 +227,18 @@
 	      "kubernetes"
       ]
     },
-
-
+    {
+      "name": "Python",
+      "level": "Intermediate",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Linux",
+      "level": "Master",
+      "keywords": [
+      ]
+    },
     {
       "name": "Ruby",
       "level": "Master",
@@ -233,14 +264,14 @@
   ],
   "references": [
     {
-      "name": "Benjamin Moramarco",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "Available upon request.",
+      "reference": ""
     }
   ],
   "projects": [
     {
       "name": "Roulette prediction system",
-      "description": "Predict where a roulette ball will fall and win moneies",
+      "description": "Attempt Predict where a roulette ball will fall (in progress)",
       "highlights": [
         "Machine learning",
         "C++",
