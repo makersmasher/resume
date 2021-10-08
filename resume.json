@@ -59,7 +59,7 @@
 
 
 
- ]
+ 	]
     },
       {
       "name": "Exegy Inc",
@@ -138,7 +138,6 @@
 
       ]
     },
-
     {
       "name": "Cybercon Colocation Center",
       "location": {
@@ -168,6 +167,8 @@
 	"Maintenance of several types of backup solutions, including tapes, rotation of virtual disks, and network backups using ftp/scp/nfs/rsync.",
 	"Was asked by management to assume the lead role of security technician. Implemented honeynet and IDS systems, using Virtual machines, honeywall, snort, sebek among other technologies. Setup Virtual machines for collating and managing IDS statistics, along with virtual machines (Backtrack4) for penetration testing of customer servers, and data forensics in case of data loss or outside penetration."
       ],
+    }
+	  ],
   "education": [
     {
       "institution": "University of Missouri - St. Louis",
