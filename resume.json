@@ -5,8 +5,8 @@
   },
   "basics": {
     "name": "Anthony Fresta",
-    "label": "Software Developer, DevOps, Manager",
-    "image": "INSERT IMAGE",
+    "label": "Software Developer, DevOps Engineer, Manager",
+    "image": "https://www.makersmasher.com/assets/img/me.jpg",
     "email": "anthony@makersmasher.com",
     "phone": "(314) 896-4826",
     "url": "http://www.makersmasher.com",
@@ -45,8 +45,21 @@
       "url": "http://exegy.com",
       "startDate": "5-16-2019",
       "endDate": "Present",
-      "summary": "Exegy continually innovates to meet evolving market challenges. Our flexible market data solutions address the diverse needs of the world’s leading market participants—from low-latency technology to real-time trading signals to historical simulation.",
-      "highlights": ["Ran teams of software devs." ]
+      "summary": "Lead the team within Exegy that moved the organization away from a snowflake approach of managing high frequency trading tickerplants.  This presented an interesting challenge due to the real time nature of the service, and a business need to shift focus to managed services.  Architected the technical and people aspects of the automation efforts with the goal of reducing costs, increasing customer satisfaction, and lessening the effects of critical path issues.",
+      "highlights": ["Lead several teams of software developers.",
+
+	             "As a member of Exegy's Global Information Security Board, I along with our executive leadership have develop and implemented policies and procedures to secure intellectual property, systems, and data",
+
+     		     "Automated configuration management, verification, and deployment of tickerplants used in high frequency trading for both production and test systems using puppet, and other various technologies.", 
+		     "Increased situational awareness, to move from a reactionary to proactive management approach.", 
+		     
+		     "Gathered requirements from Engineering, Product Management, and Customer Support/Operations for designing and implementing operational and support tools.", 
+		     
+		     "Implementing test cases and business rules based on the input of multiple teams.", "Worked directly with executive level management to implement processes, technologies, and solutions to further the tactics and strategy of automation."
+
+
+
+ ]
     },
       {
       "name": "Exegy Inc",
@@ -57,16 +70,16 @@
         "countryCode": "US",
         "region": "MO"
       },
-      "description": "Real Time Stock Market Data Solutions",
-      "position": "Manager",
+      "description": "Exegy continually innovates to meet evolving market challenges. Our flexible market data solutions address the diverse needs of the world’s leading market participants—from low-latency technology to real-time trading signals to historical simulation.",
+      "position": "Software Developer/DevOps Engineer",
       "url": "http://exegy.com",
       "startDate": "4-29-2013",
       "endDate": "5-16-2019",
-      "summary": "Exegy continually innovates to meet evolving market challenges. Our flexible market data solutions address the diverse needs of the world’s leading market participants—from low-latency technology to real-time trading signals to historical simulation.",
+      "summary": "Puppet, devops, ipxe, ruby, python, C, many projects, individual contributer",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Developed code to bare metal provision servers via HTTPS.",
+        "Developed custom iPXE C firmware.",
+	"Developed an extensive amount of puppet software in an effort to completely automate server provisioning and change management."
       ]
     },
     {
@@ -83,14 +96,51 @@
       "url": "http://newground.com",
       "startDate": "02-01-2011",
       "endDate": "04-01-2013",
-      "summary": "Something Something ",
+      "summary": "developed custom marketing sigange in-house saving a bunch of licensing fees ",
       "highlights": [
-        "Implementd some automation etc etc"
+	     "Responsible for the administration of 1500+ Linux based devices located in financial institutions across the US, implemented management with OpsCode Chef, and a custom SaaS RESTful app I developed to manage and deploy the servers.",
+
+	     "Took paper based, manual workflow, that initiated a server setup based on client specs, and worked them into the SaaS app to make a server deployment automated.",
+
+	     "Bootstrapped w/ Chef all server deployments.",
+
+	     "Worked with various financial institutions IT departments to implement connectivity between their network and Newgrounds.",
+
+	     "Developed custom security practices and standards for compliance of our devices that were installed on clients networks.",
+
+	     "Firewall/VPN administration- Cisco ASA 5510",
+
+	     "Installed/Provisioned and manage ESXi server to host the various system component servers."
       ]
     },
     {
+      "name": "Qraving.com (Part Time)",
+      "location": {
+        "address": "",
+        "postalCode": "MO 63119",
+        "city": "St. Louis",
+        "countryCode": "US",
+        "region": "MO"
+      },
+      "description": "Co-Founded Qraving.com, a digital loyalty card application for Android and IOS operating systems.",
+      "position": "Co-Founder",
+      "url": "http://qraving.com (defunct)",
+      "startDate": "04-01-2008",
+      "endDate": "05-01-2013 (part time starting 02-2011)",
+      "summary": "responded to stuff in the socnoc.",
+      "highlights": [
+	"Along with my co-founder built Qraving's userbase to 5000+ and onboarded over two dozen restaurants.",
+	"Developed backend PHP API used for app information storage/retrieval.",
+	"Development of the webviews that the Android app uses for large parts of it's functionality.",
+	"Planning for scalability, ensuring performance, ensuring security.",
+	"SEO/SEM, traditional marketing, online marketing, sales and support.",
+	"B2B Sales, helped in developing marketing plan."
+
+      ]
+    },
+
+    {
       "name": "Cybercon Colocation Center",
-      "name": "Exegy Inc",
       "location": {
         "address": "349 Marshall Ave",
         "postalCode": "MO 63119",
@@ -105,54 +155,63 @@
       "endDate": "05-01-2013 (part time starting 02-2011)",
       "summary": "responded to stuff in the socnoc.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
-      ]
-    }
-   ],
+	     "Installing memory, hard drive, and power supplies, building servers from the ground up, installing customer hardware (routers, firewalls, load balancers etc).",
+	"Use of Cybercon’s custom ticket system to troubleshoot tickets opened by system administrators hosting systems at the data center, including but not limited DNS, firewall, security and networking issues.",
+	"Ground up installation of Cybercons’ in-house DNS servers, Cisco routing hardware, and VMware servers (used for hosting customer VMs).",
+	"Writing bash, perl, and C to automate repetitive system administration tasks.",
+	"Building load balancers based on BIGIP F5 for managed hardware customers.",
+	"Managing Cisco core routers (7500, 6500, 9000) to bind IP addresses/gateways, manage ACLs, block DDOS attacks among other typical Cisco administration duties.",
+	"Detecting compromised systems using Cybercons IDS systems, eradicating spyware, malware, rootkits etc. from managed servers.",
+	"Security auditing through code review, authorization testing, functionality testing, among other common penetration testing methodologies.",
+	"Installing, maintaining, and converting VM hosts/machines based on VMware ESXi 3.5/4.0 and VMware server.",
+	"Routine OS (Linux, Windows server products, BSD) installations.",
+	"Maintenance of several types of backup solutions, including tapes, rotation of virtual disks, and network backups using ftp/scp/nfs/rsync.",
+	"Was asked by management to assume the lead role of security technician. Implemented honeynet and IDS systems, using Virtual machines, honeywall, snort, sebek among other technologies. Setup Virtual machines for collating and managing IDS statistics, along with virtual machines (Backtrack4) for penetration testing of customer servers, and data forensics in case of data loss or outside penetration."
+      ],
   "education": [
     {
       "institution": "University of Missouri - St. Louis",
       "url": "https://www.umsl.edu/",
       "area": "Computer Science",
-      "studyType": "Undergraduate Studies"
-    }
-  ],
-  "awards": [
-    {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "studyType": "Undergraduate Studies",
+      "startDate": "2000-09-01",
+      "endDate": "2003-06-01"
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "C",
+      "level": "Intermediate",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+	      "gdb",
+	      "x86_64 ASM"
       ]
     },
     {
-      "name": "Compression",
+      "name": "Web Technology",
       "level": "Master",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+              "javascript", 
+	      "html", 
+	      "css"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Master",
+      "keywords": [
+	      "puppet",
+	      "docker",
+	      "kubernetes"
+      ]
+    },
+
+
+    {
+      "name": "Ruby",
+      "level": "Master",
+      "keywords": [
+	      "Ruby on rails"
       ]
     }
   ],
@@ -164,46 +223,45 @@
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Outdoors",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Hunting",
+        "Fishing"
       ]
     }
   ],
   "references": [
     {
-      "name": "Erlich Bachman",
+      "name": "Benjamin Moramarco",
       "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
     }
   ],
   "projects": [
     {
-      "name": "Miss Direction",
-      "description": "A mapping engine that misguides you",
+      "name": "Roulette prediction system",
+      "description": "Predict where a roulette ball will fall and win moneies",
       "highlights": [
-        "Won award at AIHacks 2016",
-        "Built by all women team of newbie programmers",
-        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+        "Machine learning",
+        "C++",
+        "Computer vision"
       ],
       "keywords": [
-        "GoogleMaps",
-        "Chrome Extension",
-        "Javascript"
+        "Big Data",
+        "CV",
+        "Machine learning"
       ],
-      "startDate": "2016-08-24",
-      "endDate": "2016-08-24",
-      "url": "missdirection.example.com",
+      "startDate": "2021-10-15",
+      "endDate": "present",
+      "url": "https://www.makersmasher.com/projects/roulette",
       "roles": [
-        "Team lead",
-        "Designer"
+        ""
       ],
-      "entity": "Smoogle",
+      "entity": "",
       "type": "application"
     }
   ],
   "meta": {
-    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
     "version": "v1.0.0",
     "lastModified": "2017-12-24T15:53:00"
   }
