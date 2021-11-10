@@ -1,0 +1,24 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "resume-cli": "^3.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makersmasher/resume.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makersmasher/resume/issues"
+  },
+  "homepage": "https://github.com/makersmasher/resume#readme"
+}
