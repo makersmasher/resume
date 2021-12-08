@@ -10,7 +10,7 @@
     "email": "anthony@makersmasher.com",
     "phone": "(314) 896-4826",
     "url": "http://www.makersmasher.com",
-    "summary": "I have 15+ years experience in a variety of technical roles, I currently lead software development teams, and build large complex systems to allow for complete automation of business processes.  I would like to transition from leading teams back to being an individual contributor in some form of security - ideally exploit development, penetration testing, or reverse engineering.  I am flexible in how I acheive this.",
+    "summary": "I have 15+ years experience in a variety of technical roles, I currently lead software development teams, and build large complex systems to allow for complete automation of business processes.  I would like to transition from leading teams back to being an individual contributor in some form of security - ideally exploit development, penetration testing, or reverse engineering.  I am flexible in how I achieve this.",
     "location": {
       "address": "5219 Elizabeth Ave",
       "postalCode": "MO 63110",
@@ -45,7 +45,7 @@
       "url": "http://exegy.com",
       "startDate": "2019-05-16",
       "endDate": "Present",
-      "summary": "I lead the team within Exegy to move the organization away from a snowflake approach of managing high frequency trading tickerplants.  This presents an interesting challenge due to the real time nature of the service, and a business need to shift focus to managed services. I architected the technical and people aspects of the automation efforts with the goal of reducing costs, increasing customer satisfaction, and lessening the effects of critical path issues. It has been a real-life exercise of \"The Phoenix Project\".",
+      "summary": "I lead the team within Exegy to move the organization away from a snowflake approach of managing high frequency trading tickerplants.  This presents an interesting challenge due to the real time nature of the service, and a business need to shift focus to managed services. I architect the technical and people aspects of the automation efforts with the goal of reducing costs, increasing customer satisfaction, and lessening the effects of critical path issues. It has been a real life exercise of \"The Phoenix Project\".",
       "highlights": ["My main role is leading teams of software developers/devops experts. Added to this, I am a sounding board in the design of architecture across our production systems.",
 
 	            "In addition to my day to day, I am a member of Exegy's Global Information Security Board, working directly with C-level leadership to develop and implement policies and procedures to secure intellectual property, systems, people, and data.",
@@ -96,17 +96,17 @@
       "url": "http://newground.com",
       "startDate": "2011-02",
       "endDate": "2013-04",
-      "summary": "Developed custom marketing signage in-house saving software licensing fees for Newground.",
+      "summary": "Developed custom marketing signage in house saving software licensing fees for Newground.",
       "highlights": [
 	     "I administered 1500+ Linux based devices located in financial institutions across the US using OpsCode Chef, and a custom RESTful SAAS I developed to manage and deploy the servers.",
 
-	     "I convreted paper based, manual workflows that initiated a server setup based on client specs, and worked them into the SAAS app, automating server deployment.",
+	     "I converted paper based, manual work flows that initiated a server setup based on client specs, and worked them into the SAAS app, automating server deployment.",
 
 	     "Worked with various financial institutions IT departments to implement connectivity between their network and Newgrounds (site to site VPNs, etc).",
 
 	     "Developed custom security practices and standards for compliance of our devices that were installed on client networks.",
 
-	     "Firewall/VPN administration- Cisco ASA 5510",
+	     "Firewall/VPN administration:  Cisco ASA 5510",
 
 	     "Installed/Provisioned and managed ESXi server to host the various system component servers."
       ]
@@ -127,8 +127,8 @@
       "endDate": "2013-12",
       "summary": "",
       "highlights": [
-	"Along with my co-founder built Qraving's userbase to 5000+ and onboarded over two dozen restaurants.",
-	"Developed backend PHP API used for app information storage/retrieval.",
+	"Along with my co-founder built Qraving's user base to 5000+ and on boarded over two dozen restaurants.",
+	"Developed back end PHP API used for app information storage/retrieval.",
 	"Development of the webviews that the Android app uses for large parts of it's functionality.",
 	"Planning for scalability, ensuring performance, ensuring security.",
 	"SEO/SEM, traditional marketing, online marketing, sales and support.",
@@ -156,7 +156,7 @@
 	"Use of Cybercon’s custom ticket system to troubleshoot tickets opened by system administrators hosting systems at the data center, including but not limited DNS, firewall, security and networking issues.",
 	"Ground up installation of Cybercons’ in-house DNS servers, Cisco routing hardware, and VMware servers (used for hosting customer VMs).",
 	"Writing bash, perl, and C to automate repetitive system administration tasks.",
-	"Building load balancers based on BIGIP F5 for managed hardware customers.",
+	"Building load-balancers based on BIGIP F5 for managed hardware customers.",
 	"Managing Cisco core routers (7500, 6500, 9000) to bind IP addresses/gateways, manage ACLs, block DDOS attacks among other typical Cisco administration duties.",
 	"Detecting compromised systems using Cybercons IDS systems, eradicating spyware, malware, rootkits etc. from managed servers.",
 	"Security auditing through code review, authorization testing, functionality testing, among other common penetration testing methodologies.",
@@ -168,7 +168,7 @@
     },
 
     {
-      "name": "Owner/Managing Partner, Pure Ultraloung & Bistro",
+      "name": "Owner/Managing Partner, Pure Ultralounge & Bistro",
       "location": {
         "address": "",
         "postalCode": "MO 63119",
