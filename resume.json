@@ -243,7 +243,8 @@
           "AtomicOS",
           "Ubuntu", 
           "Kali", 
-          "RancherOS"
+          "RancherOS",
+          "bash"
       ]
     },
     {
